@@ -1,0 +1,4 @@
+{
+  "using": "accessibility id",
+  "value": "Please continue or delete the draft to finalize the encounter."
+}

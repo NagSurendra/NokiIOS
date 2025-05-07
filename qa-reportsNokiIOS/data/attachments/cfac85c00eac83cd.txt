@@ -1,0 +1,4 @@
+{
+  "using": "accessibility id",
+  "value": "Not enough transcript to generate clinical notes."
+}

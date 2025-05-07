@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//XCUIElementTypeImage[@name=\"chevron.down\"])[2]"
+}

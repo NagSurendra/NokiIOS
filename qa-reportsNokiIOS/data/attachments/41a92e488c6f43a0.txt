@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//XCUIElementTypeTextView[@value=\"Click on the mic and start speaking..\"]"
+}
